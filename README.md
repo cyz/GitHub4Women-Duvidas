@@ -17,3 +17,5 @@ Com o crescimento do uso do GitHub em projetos de tecnologia, dominar seus recur
 
 ## GitHub 4 Women: interação com a comunidade
 Repositório para tirar dúvidas em relação as atividades dos módulos. Usar a aba Discussions.
+
+![image](https://github.com/user-attachments/assets/c51e5e4e-414c-4324-ac1b-d6bce5c0f4bc)
