@@ -6,6 +6,8 @@ O GitHub 4 Women é um programa de capacitação exclusivo para mulheres que des
 
 Com o crescimento do uso do GitHub em projetos de tecnologia, dominar seus recursos se tornou essencial. Por isso, esta edição será baseada nos principais tópicos do exame **GitHub Foundation**, ajudando você a se preparar para a certificação oficial.
 
+**Ao final, as 100 participantes com melhor desempenho ganham um voucher para realizar gratuitamente a certificação GitHub Foundation.**
+
 **Como funciona o programa?**
 
 - O programa terá duração de 5 semanas, com 2 encontros online por semana.
