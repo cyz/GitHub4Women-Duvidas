@@ -14,8 +14,11 @@ Com o crescimento do uso do GitHub em projetos de tecnologia, dominar seus recur
 - **Pré-requisitos recomendados:** noções básicas de **cloud,** conhecimento em **controle de versão** e familiaridade com **desenvolvimento de software.**
 
 **Como vou assistir as aulas?**
+- As aulas serão transmitidas pelo canal de YouTube da WoMakerscode. É necessário que esteja inscrita no site [https://aka.ms/github4women](https://aka.ms/github4women)
+- Todos os links de acesso às aulas, comunicados, testes de conhecimentos, avaliação final e certificado digital serão realizadas através da plataforma da WoMakersCode e as inscrições podem ser realizadas até o dia 06 de abril de 2025.
+- Na página de inscrição você também encontra o edital do programa com todas as informações.
 
 ## GitHub 4 Women: interação com a comunidade
-Repositório para tirar dúvidas em relação as atividades dos módulos. Usar a aba Discussions.
+Utilize este repositório para tirar dúvidas em relação as atividades dos módulos. Clique na aba "Discussions" para postar uma dúvida, comentário ou interagir com a comunidade de alunas.
 
 ![image](https://github.com/user-attachments/assets/c51e5e4e-414c-4324-ac1b-d6bce5c0f4bc)
